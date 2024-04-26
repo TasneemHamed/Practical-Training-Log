@@ -8,4 +8,5 @@ my project
 
 The project comprises four fundamental pages, where I've implemented numerous skills acquired during this period. These skills range from page layout and animation setup to efficient image acquisition and meticulous color and font selection. Despite some constraints imposed by the project requirements regarding colors and fonts, I've strived to integrate them seamlessly into the design. To improve the project.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2024-03-31 at 1.06.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2024-03-31 at 1.06.09 PM.png" alt=""><figcaption><p>all file of the project</p></figcaption></figure>
+
