@@ -18,7 +18,7 @@ _**Merge Sort**_, on the other hand, is your strategy for bigger challenges. It'
 
 **Object Cloning: Keeping the Original Safe** One fascinating topic was object cloning. It's like taking a photocopy of an important document – you work on the copy so that the original remains unchanged. This is a concept you'll find invaluable when you want to avoid unintended side effects in your code.
 
-_One of the important job interview questions:_How to clone an object..
+_One of the important job interview questions:_&#x48;ow to clone an object..
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-04-26 at 2.52.30 AM.png" alt=""><figcaption><p>How to clone an object</p></figcaption></figure>
 

@@ -26,19 +26,19 @@
 
 ## Problem Solving
 
-* [Problem Solving](problem-solving/problem-solving.md)
+* [Problem Solving](programming-basics/problem-solving.md)
 
 ## Software Development
 
-* [Software Development Terms Basics](software-development/software-development-terms-basics.md)
+* [Software Development Terms Basics](programming-basics/software-development-terms-basics.md)
 
 ## Data structures and Algorithms
 
-* [Simple Search & Binary Search](data-structures-and-algorithms/simple-search-and-binary-search.md)
-* [Recursive Algorithms](data-structures-and-algorithms/recursive-algorithms.md)
-* [Sort Algo-Associative Array, Objects](data-structures-and-algorithms/sort-algo-associative-array-objects.md)
+* [Simple Search & Binary Search](programming-basics/simple-search-and-binary-search.md)
+* [Recursive Algorithms](programming-basics/recursive-algorithms.md)
+* [Sort Algo-Associative Array, Objects](programming-basics/sort-algo-associative-array-objects.md)
 
 ## working in progress
 
-* [network project](working-in-progress/network-project.md)
-* [upcoming project.....](working-in-progress/upcoming-project......md)
+* [network project](programming-basics/network-project.md)
+* [upcoming project.....](programming-basics/upcoming-project......md)
